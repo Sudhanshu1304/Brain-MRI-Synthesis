@@ -7,6 +7,6 @@ Using Generative models like Variational Autoencoder (VAE), <strong>T2-Weighted 
 
 # Sample Image
 
-![](Images\im2.png)
+![](Images/im2.png)
 
-![](Images\im1.jpg)
+![](Images/im1.jpg)
